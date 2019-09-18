@@ -26,3 +26,5 @@ feature 11
 feature 3 -- 1
 
 feature 3 -- 2
+
+feature 3 -- 3
